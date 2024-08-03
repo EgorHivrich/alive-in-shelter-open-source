@@ -1,0 +1,84 @@
+Bob
+Bob
+Father of the family. Just a normal male. Like homeworks, playing with kids (and his wife ( ͡° ͜ʖ ͡°)) and drinking alcohol.
+Katrin
+Katrin
+Bobs wife. Prety woman who dont know what is fear.
+Ben
+Ben
+Marthas older brother. He is the only one who own a telephone (useful in GPS ending).
+Martha
+Martha
+Katrins daughter. The youngest family member. She cant explore wasteland and fight but can hide to protect herself. Also she use less food and water resources.
+Doctor
+Doctor
+He sells stuff in Citys shop. Can be employed using Alcohol. He needs Food. The less hungry he is the bigger chance of healing injuries is. He goes to the shop every few days.
+The Cook
+The Cook
+She can be found in the Forest. She is carrying Gold key. When she is in the shelter you can forget about feeding your characters, she do it. She also brings you Carrots.
+The Hobo
+The Hobo
+He loves Alcohol. You can trade with him or kill and eat him. Useful in Hobos ending. In +18 DLC he can sell you Weed and… use(?) family members ;P
+Bird
+Bird
+Bird can be found in the Garden. You can shot it with the Gun and collect Died bird. It can carry Silver key.
+Blobby
+Blobby
+Blobby can be catched in the City. This green slime protects shelter against Attackers. After attack he comes back after few days. Useful in crafting and Monks ending.
+Dog
+Dog
+Dog needs a Dog house. You can catch him giving him Bones two times. It protects your shelter, can go on expedition. Dog needs to be feeded.
+Bats
+Bats
+Bats come to shelter in frosty days when you leave Trapdoor opened for the night. They steal Food. Mutated Ben can kill them. Died bird prevent Bats.
+Plant
+Plant
+Plant growes on the wall after rainy days. It has 3 stages, the last one kills family. You can eat it (but family may become sick) or put it to the Garbage.There is small chance that symbol: “+” with Hop appear over the “eat” button. Then you have to eat the Plant to receive 1 Hop.
+Monks
+Monks
+Monks can be find in the Forest every even day. You can join them but you have to meet Monk in the Airport. They give you Potatoes (When you are with them) and quests to finish Monks ending.
+Monk
+Monk
+You can find him in the Airport, he can give you Monks hoodies needed in Monks ending.
+Trash monster
+Trash monster
+It goes out the Garbage it may infect you family members. Kill it with Axe, Petrol or simply take out the Garbage. Trash monster trap prevent it.
+Aliens
+Aliens
+Aliens can be find in the Mountain. They gives you a quests to finish Aliens ending. They dont like monks!
+Attackers
+Attackers
+Atackers are knocking to the Trapdoor. If you open the Trapdoor and then go sleep the fight will start.
+Helpers
+Helpers
+They are knocking to the Trapdoor. If you leave opened Trapdoor in the night they will give you Water or Food, new Aid kit and Potatoes.
+Hostages
+Hostages
+Hostages are in Shelters. You have to find with them to tie them. You can give them Water to force them to work. Be careful they can release them self!
+Zombie
+Zombie
+You can dig a zombie from the grave on the Graveyard, it is connected with Zombie ending.
+Trader
+Trader
+Trader knocks to the Trapdoor. You can trade with him when you leave the Trapdoor opened for the night.
+Gommies
+Gommies
+This little creatures lives in Gommi village. They are connected with Gommi village ending.
+Snowman
+Snowman
+Snowman appears in the Garden only in frosty days. Dont go on expedition then! You can kill him with the Petrol.
+Pennywhistle
+Pennywhistle
+He appears only in hard or devil mode. He kidnaps Ben if you dont give him a food.
+Flies
+Flies
+Passive creatures. They appears when family members stink (are dirty), use shower in Dirty water to wash them.
+Frebbie
+Frebbie
+Very mysterious mouse can be meet only by Martha. Directly connected with 5 nights at Friebbie.
+Police 
+Police 
+Sometimes knocks to the doors. They know that you steal supplies. They want 1 carrot and 1 potato for keep this in silence. If you didnt give them what they want few times they will force attackers to come to you more frequently.
+Cat 
+Cat 
+Only way to get a Cat is to get it from the home before explosion. It kills Bats and Trash Monster. When it is hungry it goes out for few days and come back.

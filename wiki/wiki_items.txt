@@ -1,0 +1,309 @@
+Water
+Water
+Every family member needs water! How often characters need to drink depends on the difficulty level, expeditions etc.
+Cula
+Cula
+ Ca Drinkable, same as Water. Doesnt reduce full thirst but reduces a little bit hunger also. Can be found near Shelters or Yard or made by The Cook.
+Food
+Food
+Every family member needs to eat.  How often characters need to eat depends on the difficulty level, expeditions etc.
+Soup
+Soup
+Soup can be made using 3 carrots. Soup recover 7 points of hunger and 1 of thirst.
+Petrol
+Petrol
+Petrol is used to light the Furnace, kill Trash Monster, give light signal (If you dont have a Flashlight) and crafting! 
+Radio
+Radio
+Radio allows you to skan radio stations and receive messages like tomorrows weather or if the military wants light signal. Radio is breakable / repairable with Tools.
+Flashlight
+Flashlight
+Flashlight is useful when there is a blackout, allows you to give light signal.
+Cards
+Cards
+Playing cards allows you to play solitaire. Every good move adds one point. If you fill the whole bar with points family members will gain one more energy point.
+Map
+Map
+One of the most uuseful items, allows you to go on expeditions. Map is expandable (find all maps parts on expeditions). You can receive map from Helpers.
+Axe
+Axe
+One of the most useful items. You can defend your shelter against the Attackers. Can be found in the Forest.
+Mask
+Mask
+Protect family members outise the shelter. Mask is breakable / reparaible with Tools.
+Bed
+Bed
+Allows family to sleep (go to next day).
+Garbage
+Garbage
+Family produce garbage (empty cans, bottles). You can take out the rubbish by going to the Garden and clicking on the trash can.
+Pollution Meter
+Pollution Meter
+Shows radiation level outside the shelter. When it is low you dont need a Mask. Meter is breakable / reparaible with Tools.
+Aid kit
+Aid kit
+On of the most important item, Is used to heal sickness and innjuries. Craftable, can be received from Helpers and sometimes is present in the Forest.
+Tools
+Tools
+Tools are needed to fix items: Mask, Radio, Pollution Meter, Trapdoor, Valve etc.You can buy them in the shop in the City or find them in the box also in the City.
+Calendar
+Calendar
+Shows how long you live since explosion.
+Blanket
+Blanket
+Craftable from Monks hoodies. Protect family in windy days (you can leave opened trapdoor in the night without beeing sick next day).
+Clock
+Clock
+Shows day time. Bed time depends on difficulty level. Clock speed depends on type of the clock.
+Tablecloth
+Tablecloth
+Does nothing but is used in crafting.
+Trapdoor
+Trapdoor
+Trapdoor can be opened or closed. Be careful when you leave opened trapdoor for the night, you can give light signal, be robbered and killed by Attackers or receive help from Helpers/Trader. Trapdoor is breakable / reparaible with Tools and Wood or with Glue and Iron.
+Speaker
+Speaker
+Allows you to change shelter background music.
+Filter
+Filter
+Turn it ON in the Power box. Can filter Dirty water to normal Water.
+Dirty water
+Dirty water
+Use this water to water your plants or to take a shower. Collect it from the rain, bucket. Also spilled water goes there.
+Alcohol
+Alcohol
+Use Distiller to make bottle of alcohol from 3 Potatoes. Drinkable by parents only (in 18+ DLC also by kids), makes them drunk. Used in crafting and trading. Recover mostly whole thirst (not whole).
+Potatoes
+Potatoes
+Can be planted, got from Helpers. Potatoes are game currancy, so you can use them in shops. You can eat them but family may become sick. Use Furnace to make Roasted potatoe and eat it safely.
+Distiller
+Distiller
+Needs electricity power (Power Box)You can craft alcohol products using it:
+Valve
+Valve
+Gas pipe has valve which seems to be weak… It leaks after a couple of days. The better valve you have the longer it will stay repaired.
+Bucket
+Bucket
+Bucket collect more rain water, which can be poured to the Dirty water. You can buy it in the Shop.
+Gun
+Gun
+Weapon with big damage. Needs Ammunition. You can find it in the Forest.
+Power box
+Power box
+Switch ON/OFF Filter, Distiller, Alarm Clock charger or Bens Phone charger.
+Manure
+Manure
+Craftable. Speeds up growing your plants. Can be used to fix Valve or in crafting. Can be find in the Graveyard.
+Slingshot
+Slingshot
+Craftable weapon.
+TV
+TV
+Made in the workbench or bought in the further shop. It gives you information when to give a Light signal, nothing more. Used in crafting.
+Chicken
+Chicken
+Can be catched using Slingshot in the Forest. Grow it and then make Food from it.
+Carrots
+Carrots
+Get themm from The Cook. Can be planted. You can make Soup from them.
+Worktable
+Worktable
+Useful when you want to craft some stuff.
+Wood
+Wood
+Wood is used in crafting. Can be found in the Forest, Gommi village. Hostages can also bring you this material.
+Iron
+Iron
+Iron is used in crafting. Can be found in the Airport. Can be mined by Miner or Hostages. Family can dig Iron Ore in mine using Pickaxe or Sturdy Pickaxe.
+Stick
+Stick
+Craftable weapon.
+Hole
+Hole
+Hole is present in the shelter in 4th room. You can craft the entrance. Miner can mine here Iron and Copper.
+Fish
+Fish
+Useful in crafting, trading. You can catch the fish on the Beach after crafting there Fishing stick and Fishing chair. Use Furnace to make Roasted fish which you can eat.
+Heart
+Heart
+Can be taken from family members body during resuscitation (click on the small knife in the corner). Give it Zombie on the Graveyard to make family member zombie. Look Zombie ending.
+Silver key
+Silver key
+Opens the shed in the Forest. Can be carried by the Bird or Doctor in the Shop.
+Gold key
+Gold key
+Opens Graveyard. Can be found on The Cook neck.
+Blue key
+Blue key
+Opens Nuke basemant. Can be bought from Hotel owner.
+Shovel
+Shovel
+Craftable weapon. Useful in opening grave on the Graveyard and making Trench.
+Wires
+Wires
+Craftable item. Useful in crafting, Lighthouse ending and Nuke ending.
+Fuses
+Fuses
+Craftable item. Useful in crafting, Nuke ending, Lighthouse ending and Aliens ending.
+Gommi Blueberries
+Gommi Blueberries
+They grow in the Forest on the tree. Can be planted. Useful in crafting potions and few endings.
+Car parts
+Car parts
+They are somewhere on the map. Usefull in Car ending.
+Uranium
+Uranium
+Can be mined by Hostages. Useful in Nuke ending. Family can dig Uranium Ore in mine using Pickaxe or Sturdy Pickaxe.
+Gold
+Gold
+Can be mined by Miner or Hostages. Usefull in crafting. Family can dig Ore of Gold in mine using Pickaxe or Sturdy Pickaxe.
+Gold bar
+Gold bar
+Craftable item. Useful in Hobos ending.
+Copper
+Copper
+Can be mined by Miner or Hostages. Useful in crafting. Family can dig Copper Ore in mine using Pickaxe or Sturdy Pickaxe.
+Phone
+Phone
+Only Ben has phone. You can play a game on it, send GPS location (if there is signal) (GPS ending). Also you can chat with other players and call. After using GPS or calling phone needs to be charged using Power box. When Ben dies his phone goes to parents.
+Ammunition
+Ammunition
+Can be crafted or bought in the Citys shop. Gun needs ammunition!
+Bones
+Bones
+You can get bones from: family members bodies, Hobo body or after fighting. Useful in crafting and catching the Dog.
+Fishing stick
+Fishing stick
+Craftable on the Beach. Needed in fishing.
+Fishing chair
+Fishing chair
+Craftable on the Beach. Needed in fishing.
+Died bird
+Died bird
+You can kill the Bird using Gun in the Garden. Then bird is hanging on the lamp so the Bats will never come back again.
+Trench
+Trench
+You can use Shovel to dig a trench in the Garden. It takes few days and lot of energy but gives a lot of defense points.
+Trash monster trap
+Trash monster tra
+Craftable item. Trash monster will never come back again.
+Fire extinguisher
+Fire extinguisher
+Is used to take down the fire. Needs to be bought in customization shop.
+Furnace
+Furnace
+Can be used to warm up the shelter in frosty days. Use Petrol, Wood or Coal to light it up. It can mold Ore of gold, Iron ore, Copper ore and Uranium ore. It can roast Fish and Potatoes.
+Dog house
+Dog house
+Can be found in the Garden. Allows you to catch the Dog.
+Boxing bag
+Boxing bag
+Boxing bag is used to train and increase Axe damage. Reduces family members energy.
+Dog's bowl
+Dog's bowl
+Increase the time when Dog doesnt need feeding. Can be found in the shed in the Forest.
+Monks' hoodies
+Monks' hoodies
+You can get the after meeting with Monk int the Airport. They allows you to be on Monks meeting in the Forest. Aliens will stop like you. Useful in crafting.
+Rocket
+Rocket
+Rocket contain 3 craftable rocket parts. It needs Rocket fuel. Useful in Rocket ending.
+Rocket fuel
+Rocket fuel
+Craftable from normal Petrol. Needed in Rocket ending.
+Teddy
+Teddy
+Craftable item. Prevent Ben from suicide.
+Bike
+Bike
+Bike makes long expedition short. It needs Bikes chain.
+Bike's chain
+Bike's chain
+Craftable item. Makes Bike usable. It has durability.
+Slime
+Slime
+Craftable item. Used in crafting.
+Air Filter
+Air Filter
+Air filter keeps air clean! Prevent family from beeing sick. Remember to repair it if it is broken.
+Guitar 
+Guitar 
+Craftable item. Katrin can play the guitar which uses all of her energy and cause a rain next day (this adds 0.25 or 0.5L of Water).
+CCTV
+CCTV
+You can buy (permanent) CCTV camera for 300 coins. It allows you to check what (or who) is outside your Trapdoor (in trapdoor sub-menu). Camera doesnt work when Pollution Meter shows “HIGH” or when you play with “Devil” difficulty enabled.
+Hop
+Hop
+You can plant and grow it. Used for Beer crafting in Distiller. You can get it from Plant (there is small chance that “+” symbol appear over the “eat” button, eat the Plant to get 1 Hop).
+Beer
+Beer
+Drinkable only by Bob and Katrin (in +18 DLC also childs). Can be crafted in Distiller using 3 Hops. It recovers whole thirst and gives 1‰ of alcohol in blood.Drinking it recover more Mining Energy!
+Pickaxe
+Pickaxe
+Craftable item. Can be used 15 times in the mine to dig: Coal, Iron Ore, Ore of Gold, Copper Ore and Uranium Ore.
+Sturdy Pickaxe
+Sturdy Pickaxe
+Better version of Pickaxe. Craftable item. Can be used 30 times in the mine to dig: Coal, Iron Ore, Ore of Gold, Copper Ore and Uranium Ore.
+Coal
+Coal
+Coal can be digged in the mine using Pickaxe or Sturdy Pickaxe. Furnace can be fired with it.
+Iron Ore
+Iron Ore
+Iron Ore can be digged in the mine using Pickaxe or Sturdy Pickaxe. Needs to be melted in the Furnace to get Iron.
+Copper
+Copper
+Copper Ore can be digged in the mine using Pickaxe or Sturdy Pickaxe. Needs to be melted in the Furnace to get Copper.
+Ore of Gold
+Ore of Gold
+Ore of Gold can be digged in the mine using Pickaxe or Sturdy Pickaxe. Needs to be melted in the Furnace to get Gold.
+Uranium Ore
+Uranium Ore
+Uranium Ore can be digged in the mine using Pickaxe or Sturdy Pickaxe. Needs to be melted in the Furnace to get Uranium.
+Uranium Pickaxe
+Uranium Pickaxe
+The best version of Pickaxe. Craftable item. Can be used 108 times in the mine to dig: Coal, Iron Ore, Ore of Gold, Copper Ore and Uranium Ore. Only for premium (DLC) players.
+Roasted fish 
+Roasted fish 
+Use Furnace to roast the fish. You can eat it.
+Roasted potatoe
+Roasted potatoe
+You can use Furnace to roast Potatoes. You can eat it safely.
+Crowbar
+Crowbar
+Allows you to robbery the city shop when Doctor (seller) is outside (rented by you).
+Mushrooms
+Mushrooms
+Bob and Katrin can eat them, but there is 50% of being sick. Can be found outside on Yard. Can be planted.
+Alarm Clock
+Alarm Clock
+Used to wake up family in the night (1 oclock). You can safely open the Trapdoor or go to the Garden then. Needs to be charged by Power box.
+Flesh
+Flesh
+You can get it killing the Trash monster. It is poisonous but can by baked in Furnace→ Baked Flesh.
+Baked Flesh
+Baked Flesh
+Can be made using Furnace and Flesh. Can be safely eaten.
+Rice 
+Rice 
+Rice can be planted, it gives up to 5 peaces when gathered. It can is used in crafting to make Glue. Rice can be found on places with extra maps (Fireplace, Gold source, Nuke basemant) or at start get it from home (kitchen) in Retard or Easy level.
+Glue 
+Glue 
+Glue can be crafted using Rice and Cula. I is used in crafting and to fix the Trapdoor.
+Apple 
+Apple 
+You can get in from the Apple Tree in the Garden. You can eat it or exchange apples for Cat in Hotel.
+Cider 
+Cider 
+Use Distiller to make Cider out of 2 Apples. It makes adults drunk but recovers mining energy!
+Apple Tree 
+Apple Tree 
+Apple tree grow in the Garden and it gives Apples every x days. Dont let Apples grow to long because they will rotten.
+Coffee 
+Coffee 
+Coffee recovers 4 points of energy. Can be drink by Bob, Ben and Katrin. Can be made in Distiller using 5 Coffee seeds.
+Coffee seeds 
+Coffee seeds 
+Coffee seeds can be gather by Dog. You can plant them and use in Distiller to make Coffee.
+Wiki book 
+Wiki book 
+You can read wiki in game during play in diary. Can be found at game start (home) in salon.
